@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         int a1 = 12;
-        int b1 = 7;
+        int b1 = 8;
         int a2 = 1;
         int b2 = 3;
         boolean isNoIntersection1 = ((a1<a2 && b1<a2)||(a1>b2 && b1>b2));
